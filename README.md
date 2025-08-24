@@ -5,7 +5,7 @@ A full-stack web application built using the MERN stack that allows students to 
 
 # Tech Stack
 
-- **Frontend:** React.js, Axios, Tailwind CSS / Bootstrap (if used)
+- **Frontend:** React.js, Axios,CSS / Bootstrap
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (via Mongoose)
 - **Tools:** Postman (for API testing), Git
